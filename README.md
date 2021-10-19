@@ -25,7 +25,7 @@ Pressure	= 1.1 atm
 Molar flow	= 150 lbmole/hr
 
 Water	
-Temperature	= 75F
+Temperature	= 75 deg.F
 Pressure	= 16.17 Psia
 Mass flow	= 11,000 lb/hr
 
