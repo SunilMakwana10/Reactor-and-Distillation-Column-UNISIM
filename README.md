@@ -20,7 +20,7 @@ Data:
 •	Feed Conditions
 
 Propylene oxide
-Temperature	= 75F
+Temperature	= 75 deg.F
 Pressure	= 1.1 atm 
 Molar flow	= 150 lbmole/hr
 
